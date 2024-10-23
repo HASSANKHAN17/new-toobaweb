@@ -65,7 +65,7 @@ function Footer() {
           <p><MailOutlineIcon /> sales@toobapharma.in</p>
 
           <p><b>For Purchase Department & Other Inquiries:</b> </p>
-          <p><LocalPhoneIcon /> +91 9975827056</p>
+          <p><LocalPhoneIcon /> +91 9011986111</p>
           <p><MailOutlineIcon /> info@toobapharma.in</p>
 
           <p><LocationOnIcon /> Plot No: A-117, A-118 & A-119, Paithan Industrial Area, Aurangabad-431148 (M.S)</p>

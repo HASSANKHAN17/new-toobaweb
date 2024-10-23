@@ -82,14 +82,14 @@ function Products() {
                 
                 <tr>
                 <td data-label="Name">1</td>
-                <td data-label="Age">Tolterodine Tartrate </td>
-                <td data-label="Job">124937-52-6</td>
+                <td data-label="Age"> Primidone  </td>
+                <td data-label="Job"> 125-33-7</td>
                 </tr>
                 
                 <tr>
                 <td data-label="Name">2</td>
-                <td data-label="Age">Aripiprazole </td>
-                <td data-label="Job">129722-12-9</td>
+                <td data-label="Age">Nitrofurantoin </td>
+                <td data-label="Job"> 67-20-9</td>
                 </tr>
                 <tr>
                 <td data-label="Name">3</td>
@@ -98,8 +98,8 @@ function Products() {
                 </tr>
                 <tr>
                 <td data-label="Name">4</td>
-                <td data-label="Age">Cinacalcet Hydrochloride </td>
-                <td data-label="Job">364782-34-3</td>
+                <td data-label="Age">Baclofen </td>
+                <td data-label="Job">1134-47-0</td>
                 </tr>
                 
                 <tr>
